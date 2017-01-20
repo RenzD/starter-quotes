@@ -11,4 +11,8 @@ Style convention: none
 ------------- Change Log ----------
 
 1. Added changelog file
-2. Added cube pic
+
+2. added tooltips
+
+3. Added cube pic
+
