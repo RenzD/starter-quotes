@@ -16,3 +16,6 @@ Style convention: none
 
 3. Added cube pic
 
+4. bug fix for tooltips
+
+5. added random quotes
